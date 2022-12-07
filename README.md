@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vogt935
 - 👀 I’m interested in Java, Javascript, Tech in generell, and History!
-- 🌱 I’m currently learning to code in Java and Javascript&HTML&CSS
+- 🌱 I’m currently learning to code in Java and Javascript+HTML+CSS
 
 
 <!---
